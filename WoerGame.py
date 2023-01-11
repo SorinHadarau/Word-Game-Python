@@ -1,3 +1,4 @@
+## This is just a tentative a a game that I still have to perfect, test and modify to meet fully the envisioned requirements
 import collections
 from PyDictionary import PyDictionary
 
@@ -24,3 +25,5 @@ with open("words_dictionary.txt") as f:
 seven_words = list(set(seven_words))
 
 print(seven_words)
+
+
