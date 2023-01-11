@@ -1,7 +1,8 @@
 # Word-Game-Python
 
-These are the requirements that I still have to refine, test, and eventually modify in my code.
-(Please keep in mind that above code snippet is just an example and it might need slight adjustments depending on the way you implement and utilize libraries such as PyDictionary.
+(Please keep in mind that the atempted code published is just an example and it might need slight adjustments depending on the way you implement and utilize libraries such as PyDictionary)
+
+These are the requirements that I still have to refine, test, and eventually modify in my code:
 
 You are provided with a word of eight letters or more which we'll call the "sourceword".
 
